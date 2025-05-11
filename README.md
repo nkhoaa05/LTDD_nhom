@@ -1,1 +1,1 @@
-# LTDD_nhom
+# Đây là git nhóm LTDD
